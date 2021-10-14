@@ -6,6 +6,7 @@ The University of Manchester GPC library (wikipedia: [GPC](https://en.wikipedia.
 
 - Author: [Alan Murta](http://www.cs.man.ac.uk/~toby/alan/index.html)
 - Website: http://www.cs.man.ac.uk/~toby/gpc/
+- Documentation: http://www.cs.man.ac.uk/~toby/alan/software/gpc.html
 
 **GPC Features**
 
@@ -18,4 +19,12 @@ The University of Manchester GPC library (wikipedia: [GPC](https://en.wikipedia.
 - Hole and external contours are differentiated in the result.
 - Coincident edges and degenerate regions are handled correctly.
 
-On-line documentation: http://www.cs.man.ac.uk/~toby/alan/software/gpc.html
+**Demo**
+
+>![](demo.gif)
+
+>![](demo.png)
+
+**Contact**
+
+Feel free to contact via [Twitter](https://twitter.com/vic4key) / [Gmail](mailto:vic4key@gmail.com) / [Blog](https://blog.vic.onl/) / [Website](https://vic.onl/)
