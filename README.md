@@ -5,9 +5,11 @@ The University of Manchester GPC library (wikipedia: [GPC](https://en.wikipedia.
 **Information**
 
 - Author: [Alan Murta](http://www.cs.man.ac.uk/~toby/alan/index.html)
-- Website: http://www.cs.man.ac.uk/~toby/gpc/
+- Wikipedia: https://en.wikipedia.org/wiki/General_Polygon_Clipper
+- ~Website: http://www.cs.man.ac.uk/~toby/gpc/~
 - Website (archive): https://web.archive.org/web/20200308234550/http://www.cs.man.ac.uk/~toby/gpc/
-- Documentation: http://www.cs.man.ac.uk/~toby/alan/software/gpc.html
+- ~Documentation: http://www.cs.man.ac.uk/~toby/alan/software/gpc.html~
+- Documentation (archive): https://web.archive.org/web/20200323051343/http://www.cs.man.ac.uk/~toby/alan/software/gpc.html
 
 **GPC Features**
 
